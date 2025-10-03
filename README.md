@@ -3,6 +3,8 @@
 ## Description
 **BPL-DREAM 11** is a React-based web application designed to provide users with an interactive and dynamic experience of assembling their dream cricket team. The app features a user-friendly interface, showcases detailed player data, and includes interactive components for selecting and managing players, tracking credits, and receiving notifications.
 
+[🌐 Live Demo](https://lighthearted-hotteok-329dd1.netlify.app/) &nbsp;
+
 ## Technologies Used
 - **React**: Frontend framework for building the user interface.
 - **React-Toastify**: Provides rich notification features for user interactions.
