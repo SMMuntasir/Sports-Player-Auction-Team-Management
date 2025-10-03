@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co.com/NxjC4hx/kohli2.jpg",
+    "player_name": "Virat Kohli",
+    "country": "India",
+    "type": "Batsman",
+    "which_hand": "Right-hand",
+    "price": 2000000
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co.com/8d3VPHs/sakib.jpg",
+    "player_name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "type": "All-rounder",
+    "which_hand": "Left-hand",
+    "price": 1800000
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co.com/GMdNp24/starc3.jpg",
+    "player_name": "Mitchell Starc",
+    "country": "Australia",
+    "type": "Bowler",
+    "which_hand": "Left-hand",
+    "price": 1700000
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co.com/pQ9jsMR/stock.jpg",
+    "player_name": "Ben Stokes",
+    "country": "England",
+    "type": "All-rounder",
+    "which_hand": "Left-hand",
+    "price": 1900000
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co.com/Fzx8t7f/boult.jpg",
+    "player_name": "Trent Boult",
+    "country": "New Zealand",
+    "type": "Bowler",
+    "which_hand": "Left-hand",
+    "price": 1500000
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co.com/q0t2ThQ/ab.jpg",
+    "player_name": "AB de Villiers",
+    "country": "South Africa",
+    "type": "Batsman",
+    "which_hand": "Right-hand",
+    "price": 1600000
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co.com/HhJqp1m/rashid.jpg",
+    "player_name": "Rashid Khan",
+    "country": "Afghanistan",
+    "type": "Bowler",
+    "which_hand": "Right-hand",
+    "price": 1400000
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co.com/582dmNY/babar.jpg",
+    "player_name": "Babar Azam",
+    "country": "Pakistan",
+    "type": "Batsman",
+    "which_hand": "Right-hand",
+    "price": 2000000
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co.com/0mGBx9p/gayle.jpg",
+    "player_name": "Chris Gayle",
+    "country": "West Indies",
+    "type": "Batsman",
+    "which_hand": "Left-hand",
+    "price": 1700000
+  }
+]
+
+  
